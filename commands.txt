@@ -1,0 +1,1 @@
+export $(grep -v '^#' ~/.aws/aws.env | xargs)
